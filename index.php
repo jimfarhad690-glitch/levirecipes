@@ -1612,8 +1612,8 @@
                 <div class="footer-col">
                     <h4>Publisher Transparency</h4>
                     <p style="font-size: 0.88rem; margin-bottom: 0.75rem;"><strong>Levi Recipes Online Editorial</strong><br>
-                    Website: levirecipes.online<br>
-                    Inquiries: editorial@levirecipes.online<br>
+                    Website: levirecipes-3a4d6a324731.herokuapp.com<br>
+                    Inquiries: editorial@levirecipes-3a4d6a324731.herokuapp.com<br>
                     Munich / International Culinary Bureau</p>
                     <button class="btn btn-outline btn-sm" onclick="openPolicyModal('contact')">
                         Send Direct Inquiry
@@ -1627,7 +1627,7 @@
             </div>
 
             <div class="footer-bottom">
-                <div>© <span id="currentYear">2025</span> Levi Recipes (levirecipes.online). All Rights Reserved.</div>
+                <div>© <span id="currentYear">2025</span> Levi Recipes (levirecipes-3a4d6a324731.herokuapp.com). All Rights Reserved.</div>
                 <div style="display: flex; gap: 1.5rem;">
                     <a href="javascript:void(0)" onclick="openPolicyModal('privacy')">Privacy</a>
                     <a href="javascript:void(0)" onclick="openPolicyModal('terms')">Terms</a>
@@ -2322,10 +2322,10 @@
                 titleEl.textContent = "Privacy Policy";
                 bodyEl.innerHTML = `
                     <p><strong>Last Updated: January 2025</strong></p>
-                    <p>At <strong>Levi Recipes</strong> (accessible from https://levirecipes.online), one of our main priorities is the privacy of our visitors. This Privacy Policy document outlines the types of information collected and recorded by Levi Recipes and how we use it in full compliance with the <strong>Google AdSense Publisher Policies</strong>, General Data Protection Regulation (<strong>GDPR</strong>), and California Consumer Privacy Act (<strong>CCPA/CPRA</strong>).</p>
+                    <p>At <strong>Levi Recipes</strong> (accessible from https://levirecipes-3a4d6a324731.herokuapp.com), one of our main priorities is the privacy of our visitors. This Privacy Policy document outlines the types of information collected and recorded by Levi Recipes and how we use it in full compliance with the <strong>Google AdSense Publisher Policies</strong>, General Data Protection Regulation (<strong>GDPR</strong>), and California Consumer Privacy Act (<strong>CCPA/CPRA</strong>).</p>
                     
                     <h4>1. Google AdSense & DoubleClick DART Cookies</h4>
-                    <p>Google is a third-party vendor on our site. It uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to levirecipes.online and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google Ad and Content Network Privacy Policy at the following URL: <a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener noreferrer">https://policies.google.com/technologies/ads</a>.</p>
+                    <p>Google is a third-party vendor on our site. It uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to levirecipes-3a4d6a324731.herokuapp.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google Ad and Content Network Privacy Policy at the following URL: <a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener noreferrer">https://policies.google.com/technologies/ads</a>.</p>
 
                     <h4>2. Advertising Partners & Third-Party Ad Servers</h4>
                     <p>Some of our advertisers on our site may use cookies and web beacons. Our advertising partners include Google AdSense. Third-party ad servers or ad networks use technology in their respective advertisements and links that appear on Levi Recipes, which are sent directly to users' browsers. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see.</p>
@@ -2340,14 +2340,14 @@
                     <p>Under the CCPA, among other rights, California consumers have the right to request that a business disclose the categories and specific pieces of personal data that a business has collected, delete personal data, and not sell the consumer's personal data. If you make a request, we have one month to respond to you.</p>
 
                     <h4>6. GDPR Data Protection Rights</h4>
-                    <p>Every user is entitled to the following: the right to access, the right to rectification, the right to erasure, the right to restrict processing, the right to object to processing, and the right to data portability. To exercise any of these rights, contact us at <strong>privacy@levirecipes.online</strong>.</p>
+                    <p>Every user is entitled to the following: the right to access, the right to rectification, the right to erasure, the right to restrict processing, the right to object to processing, and the right to data portability. To exercise any of these rights, contact us at <strong>privacy@levirecipes-3a4d6a324731.herokuapp.com</strong>.</p>
                 `;
             } else if (type === 'terms') {
                 titleEl.textContent = "Terms of Service";
                 bodyEl.innerHTML = `
                     <p><strong>Effective Date: January 1, 2025</strong></p>
                     <h4>1. Acceptance of Terms</h4>
-                    <p>By accessing and using <strong>Levi Recipes (levirecipes.online)</strong>, you accept and agree to be bound by the terms and provisions of this agreement.</p>
+                    <p>By accessing and using <strong>Levi Recipes (levirecipes-3a4d6a324731.herokuapp.com)</strong>, you accept and agree to be bound by the terms and provisions of this agreement.</p>
 
                     <h4>2. Intellectual Property & Recipe Usage</h4>
                     <p>All written culinary recipes, culinary history texts, website design code, and structured guides are the intellectual property of Levi Recipes. You are welcome to print and prepare recipes for personal, non-commercial home cooking. Republication or redistribution of entire articles without written permission and canonical attribution is strictly prohibited.</p>
