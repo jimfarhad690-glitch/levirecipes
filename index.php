@@ -10,11 +10,11 @@
     <meta name="keywords" content="German recipes, authentic German food, Bavarian cooking, Wiener Schnitzel, Käsespätzle, Black Forest Cake, Brezeln, Sauerbraten, German baking, Oktoberfest food">
     <meta name="author" content="Levi Recipes Culinary Team">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://levirecipes.online/">
+    <link rel="canonical" href="https://levirecipes-3a4d6a324731.herokuapp.com/">
 
     <!-- Open Graph / Social Meta -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://levirecipes.online/">
+    <meta property="og:url" content="https://levirecipes-3a4d6a324731.herokuapp.com/">
     <meta property="og:title" content="Levi Recipes | Authentic German Food & Heritage Recipes">
     <meta property="og:description" content="Master traditional German cooking with time-tested family recipes, step-by-step photos, portion scaling, and authentic culinary techniques.">
     <meta property="og:image" content="https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1200&q=80">
@@ -37,25 +37,25 @@
       "@graph": [
         {
           "@type": "WebSite",
-          "@id": "https://levirecipes.online/#website",
-          "url": "https://levirecipes.online/",
+          "@id": "https://levirecipes-3a4d6a324731.herokuapp.com/#website",
+          "url": "https://levirecipes-3a4d6a324731.herokuapp.com/",
           "name": "Levi Recipes - German Culinary Heritage",
           "description": "Authentic, tested German recipes and culinary techniques from Bavaria, Swabia, Rhineland, and the Black Forest.",
           "publisher": {
             "@type": "Organization",
             "name": "Levi Recipes",
-            "url": "https://levirecipes.online/",
+            "url": "https://levirecipes-3a4d6a324731.herokuapp.com/",
             "logo": {
               "@type": "ImageObject",
-              "url": "https://levirecipes.online/logo.png"
+              "url": "https://levirecipes-3a4d6a324731.herokuapp.com/logo.png"
             }
           }
         },
         {
           "@type": "Organization",
-          "@id": "https://levirecipes.online/#organization",
+          "@id": "https://levirecipes-3a4d6a324731.herokuapp.com/#organization",
           "name": "Levi Recipes",
-          "url": "https://levirecipes.online/",
+          "url": "https://levirecipes-3a4d6a324731.herokuapp.com/",
           "sameAs": [
             "https://facebook.com/levirecipes",
             "https://pinterest.com/levirecipes",
